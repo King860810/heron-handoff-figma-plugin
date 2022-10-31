@@ -36,7 +36,7 @@ export const ANDROID_DENSITY = [
     value: 4 / 3
   },
   {
-    label: 'mdpi',
+    label: 'mdpi(1x)',
     value: 1
   },
   {
@@ -44,20 +44,20 @@ export const ANDROID_DENSITY = [
     value: 3 / 4
   },
   {
-    label: 'hdpi (2/3)',
-    value: 2 / 3
+    label: 'hdpi (1.5x)',
+    value: 1.5
   },
   {
-    label: 'xhdpi (1/2)',
-    value: 1 / 2
+    label: 'xhdpi (2x)',
+    value: 2
   },
   {
-    label: 'xxhdpi (1/3)',
-    value: 1 / 3
+    label: 'xxhdpi (3x)',
+    value: 3
   },
   {
-    label: 'xxxhdpi (1/4)',
-    value: 1 / 4
+    label: 'xxxhdpi (4x)',
+    value: 4
   }
 ];
 
